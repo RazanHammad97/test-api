@@ -1,0 +1,25 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "title": "house 1",
+      "description" : "lorem ipsom lorem ipsomlorem ipsom lorem ipsomlorem ipsom lorem ipsomlorem ipsom lorem ipsom",
+      "baths": "2"
+    },
+     {
+      "id": 2,
+      "title": "house 2",
+      "description" : "lorem ipsom lorem ipsomlorem ipsom lorem ipsomlorem ipsom lorem ipsomlorem ipsom lorem ipsom",
+"baths": "3"
+    },
+    {
+      "id": 3,
+      "title": "house 3",
+      "description" : "lorem ipsom lorem ipsomlorem ipsom lorem ipsomlorem ipsom lorem ipsomlorem ipsom lorem ipsom"
+"baths":"1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
